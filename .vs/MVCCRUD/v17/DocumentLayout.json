@@ -1,0 +1,293 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.NET Full Stack\\MVCCRUD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2F717E53-9C57-443C-B9FB-90373C0E91EF}|MVCCRUD\\MVCCRUD.csproj|d:\\.net full stack\\mvccrud\\mvccrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F717E53-9C57-443C-B9FB-90373C0E91EF}|MVCCRUD\\MVCCRUD.csproj|solutionrelative:mvccrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F717E53-9C57-443C-B9FB-90373C0E91EF}|MVCCRUD\\MVCCRUD.csproj|d:\\.net full stack\\mvccrud\\mvccrud\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F717E53-9C57-443C-B9FB-90373C0E91EF}|MVCCRUD\\MVCCRUD.csproj|solutionrelative:mvccrud\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F717E53-9C57-443C-B9FB-90373C0E91EF}|MVCCRUD\\MVCCRUD.csproj|d:\\.net full stack\\mvccrud\\mvccrud\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F717E53-9C57-443C-B9FB-90373C0E91EF}|MVCCRUD\\MVCCRUD.csproj|solutionrelative:mvccrud\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F717E53-9C57-443C-B9FB-90373C0E91EF}|MVCCRUD\\MVCCRUD.csproj|d:\\.net full stack\\mvccrud\\mvccrud\\views\\employees\\view.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2F717E53-9C57-443C-B9FB-90373C0E91EF}|MVCCRUD\\MVCCRUD.csproj|solutionrelative:mvccrud\\views\\employees\\view.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F717E53-9C57-443C-B9FB-90373C0E91EF}|MVCCRUD\\MVCCRUD.csproj|d:\\.net full stack\\mvccrud\\mvccrud\\views\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2F717E53-9C57-443C-B9FB-90373C0E91EF}|MVCCRUD\\MVCCRUD.csproj|solutionrelative:mvccrud\\views\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F717E53-9C57-443C-B9FB-90373C0E91EF}|MVCCRUD\\MVCCRUD.csproj|d:\\.net full stack\\mvccrud\\mvccrud\\migrations\\20230721095528_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F717E53-9C57-443C-B9FB-90373C0E91EF}|MVCCRUD\\MVCCRUD.csproj|solutionrelative:mvccrud\\migrations\\20230721095528_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F717E53-9C57-443C-B9FB-90373C0E91EF}|MVCCRUD\\MVCCRUD.csproj|d:\\.net full stack\\mvccrud\\mvccrud\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2F717E53-9C57-443C-B9FB-90373C0E91EF}|MVCCRUD\\MVCCRUD.csproj|solutionrelative:mvccrud\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F717E53-9C57-443C-B9FB-90373C0E91EF}|MVCCRUD\\MVCCRUD.csproj|d:\\.net full stack\\mvccrud\\mvccrud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2F717E53-9C57-443C-B9FB-90373C0E91EF}|MVCCRUD\\MVCCRUD.csproj|solutionrelative:mvccrud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F717E53-9C57-443C-B9FB-90373C0E91EF}|MVCCRUD\\MVCCRUD.csproj|d:\\.net full stack\\mvccrud\\mvccrud\\data\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F717E53-9C57-443C-B9FB-90373C0E91EF}|MVCCRUD\\MVCCRUD.csproj|solutionrelative:mvccrud\\data\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F717E53-9C57-443C-B9FB-90373C0E91EF}|MVCCRUD\\MVCCRUD.csproj|d:\\.net full stack\\mvccrud\\mvccrud\\models\\updateemployeemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F717E53-9C57-443C-B9FB-90373C0E91EF}|MVCCRUD\\MVCCRUD.csproj|solutionrelative:mvccrud\\models\\updateemployeemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F717E53-9C57-443C-B9FB-90373C0E91EF}|MVCCRUD\\MVCCRUD.csproj|d:\\.net full stack\\mvccrud\\mvccrud\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F717E53-9C57-443C-B9FB-90373C0E91EF}|MVCCRUD\\MVCCRUD.csproj|solutionrelative:mvccrud\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F717E53-9C57-443C-B9FB-90373C0E91EF}|MVCCRUD\\MVCCRUD.csproj|d:\\.net full stack\\mvccrud\\mvccrud\\models\\addemployeemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F717E53-9C57-443C-B9FB-90373C0E91EF}|MVCCRUD\\MVCCRUD.csproj|solutionrelative:mvccrud\\models\\addemployeemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F717E53-9C57-443C-B9FB-90373C0E91EF}|MVCCRUD\\MVCCRUD.csproj|d:\\.net full stack\\mvccrud\\mvccrud\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2F717E53-9C57-443C-B9FB-90373C0E91EF}|MVCCRUD\\MVCCRUD.csproj|solutionrelative:mvccrud\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F717E53-9C57-443C-B9FB-90373C0E91EF}|MVCCRUD\\MVCCRUD.csproj|d:\\.net full stack\\mvccrud\\mvccrud\\views\\employees\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2F717E53-9C57-443C-B9FB-90373C0E91EF}|MVCCRUD\\MVCCRUD.csproj|solutionrelative:mvccrud\\views\\employees\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F717E53-9C57-443C-B9FB-90373C0E91EF}|MVCCRUD\\MVCCRUD.csproj|d:\\.net full stack\\mvccrud\\mvccrud\\migrations\\mydbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F717E53-9C57-443C-B9FB-90373C0E91EF}|MVCCRUD\\MVCCRUD.csproj|solutionrelative:mvccrud\\migrations\\mydbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F717E53-9C57-443C-B9FB-90373C0E91EF}|MVCCRUD\\MVCCRUD.csproj|d:\\.net full stack\\mvccrud\\mvccrud\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F717E53-9C57-443C-B9FB-90373C0E91EF}|MVCCRUD\\MVCCRUD.csproj|solutionrelative:mvccrud\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F717E53-9C57-443C-B9FB-90373C0E91EF}|MVCCRUD\\MVCCRUD.csproj|d:\\.net full stack\\mvccrud\\mvccrud\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2F717E53-9C57-443C-B9FB-90373C0E91EF}|MVCCRUD\\MVCCRUD.csproj|solutionrelative:mvccrud\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\.NET Full Stack\\MVCCRUD\\MVCCRUD\\appsettings.json",
+              "RelativeDocumentMoniker": "MVCCRUD\\appsettings.json",
+              "ToolTip": "D:\\.NET Full Stack\\MVCCRUD\\MVCCRUD\\appsettings.json",
+              "RelativeToolTip": "MVCCRUD\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2023-07-21T09:38:11.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\.NET Full Stack\\MVCCRUD\\MVCCRUD\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "MVCCRUD\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\.NET Full Stack\\MVCCRUD\\MVCCRUD\\Properties\\launchSettings.json",
+              "RelativeToolTip": "MVCCRUD\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2023-07-31T01:43:30.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.NET Full Stack\\MVCCRUD\\MVCCRUD\\Program.cs",
+              "RelativeDocumentMoniker": "MVCCRUD\\Program.cs",
+              "ToolTip": "D:\\.NET Full Stack\\MVCCRUD\\MVCCRUD\\Program.cs",
+              "RelativeToolTip": "MVCCRUD\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-07-21T09:30:24.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "D:\\.NET Full Stack\\MVCCRUD\\MVCCRUD\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "MVCCRUD\\Controllers\\EmployeesController.cs",
+              "ToolTip": "D:\\.NET Full Stack\\MVCCRUD\\MVCCRUD\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "MVCCRUD\\Controllers\\EmployeesController.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAswFQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-08-15T15:10:53.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20230721095528_Initial.cs",
+              "DocumentMoniker": "D:\\.NET Full Stack\\MVCCRUD\\MVCCRUD\\Migrations\\20230721095528_Initial.cs",
+              "RelativeDocumentMoniker": "MVCCRUD\\Migrations\\20230721095528_Initial.cs",
+              "ToolTip": "D:\\.NET Full Stack\\MVCCRUD\\MVCCRUD\\Migrations\\20230721095528_Initial.cs",
+              "RelativeToolTip": "MVCCRUD\\Migrations\\20230721095528_Initial.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-07-21T09:55:29.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\.NET Full Stack\\MVCCRUD\\MVCCRUD\\Views\\Employees\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVCCRUD\\Views\\Employees\\Index.cshtml",
+              "ToolTip": "D:\\.NET Full Stack\\MVCCRUD\\MVCCRUD\\Views\\Employees\\Index.cshtml",
+              "RelativeToolTip": "MVCCRUD\\Views\\Employees\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-07-21T10:15:09.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "View.cshtml",
+              "DocumentMoniker": "D:\\.NET Full Stack\\MVCCRUD\\MVCCRUD\\Views\\Employees\\View.cshtml",
+              "RelativeDocumentMoniker": "MVCCRUD\\Views\\Employees\\View.cshtml",
+              "ToolTip": "D:\\.NET Full Stack\\MVCCRUD\\MVCCRUD\\Views\\Employees\\View.cshtml",
+              "RelativeToolTip": "MVCCRUD\\Views\\Employees\\View.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-07-21T11:21:29.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\.NET Full Stack\\MVCCRUD\\MVCCRUD\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "MVCCRUD\\Models\\Employee.cs",
+              "ToolTip": "D:\\.NET Full Stack\\MVCCRUD\\MVCCRUD\\Models\\Employee.cs",
+              "RelativeToolTip": "MVCCRUD\\Models\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-07-21T09:34:19.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\.NET Full Stack\\MVCCRUD\\MVCCRUD\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MVCCRUD\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\.NET Full Stack\\MVCCRUD\\MVCCRUD\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MVCCRUD\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABYAAACGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-07-21T10:07:51.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MyDbContext.cs",
+              "DocumentMoniker": "D:\\.NET Full Stack\\MVCCRUD\\MVCCRUD\\Data\\MyDbContext.cs",
+              "RelativeDocumentMoniker": "MVCCRUD\\Data\\MyDbContext.cs",
+              "ToolTip": "D:\\.NET Full Stack\\MVCCRUD\\MVCCRUD\\Data\\MyDbContext.cs",
+              "RelativeToolTip": "MVCCRUD\\Data\\MyDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-07-21T09:31:39.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UpdateEmployeeModel.cs",
+              "DocumentMoniker": "D:\\.NET Full Stack\\MVCCRUD\\MVCCRUD\\Models\\UpdateEmployeeModel.cs",
+              "RelativeDocumentMoniker": "MVCCRUD\\Models\\UpdateEmployeeModel.cs",
+              "ToolTip": "D:\\.NET Full Stack\\MVCCRUD\\MVCCRUD\\Models\\UpdateEmployeeModel.cs",
+              "RelativeToolTip": "MVCCRUD\\Models\\UpdateEmployeeModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-08-24T04:37:20.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\.NET Full Stack\\MVCCRUD\\MVCCRUD\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "MVCCRUD\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\.NET Full Stack\\MVCCRUD\\MVCCRUD\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "MVCCRUD\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-08-24T04:37:19.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AddEmployeeModel.cs",
+              "DocumentMoniker": "D:\\.NET Full Stack\\MVCCRUD\\MVCCRUD\\Models\\AddEmployeeModel.cs",
+              "RelativeDocumentMoniker": "MVCCRUD\\Models\\AddEmployeeModel.cs",
+              "ToolTip": "D:\\.NET Full Stack\\MVCCRUD\\MVCCRUD\\Models\\AddEmployeeModel.cs",
+              "RelativeToolTip": "MVCCRUD\\Models\\AddEmployeeModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-07-21T10:48:03.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "D:\\.NET Full Stack\\MVCCRUD\\MVCCRUD\\Views\\Employees\\Add.cshtml",
+              "RelativeDocumentMoniker": "MVCCRUD\\Views\\Employees\\Add.cshtml",
+              "ToolTip": "D:\\.NET Full Stack\\MVCCRUD\\MVCCRUD\\Views\\Employees\\Add.cshtml",
+              "RelativeToolTip": "MVCCRUD\\Views\\Employees\\Add.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-07-21T10:46:57.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MyDbContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\.NET Full Stack\\MVCCRUD\\MVCCRUD\\Migrations\\MyDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "MVCCRUD\\Migrations\\MyDbContextModelSnapshot.cs",
+              "ToolTip": "D:\\.NET Full Stack\\MVCCRUD\\MVCCRUD\\Migrations\\MyDbContextModelSnapshot.cs",
+              "RelativeToolTip": "MVCCRUD\\Migrations\\MyDbContextModelSnapshot.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-08-19T13:50:55.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\.NET Full Stack\\MVCCRUD\\MVCCRUD\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MVCCRUD\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\.NET Full Stack\\MVCCRUD\\MVCCRUD\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MVCCRUD\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAA1wBEAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-07-31T06:19:02.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\.NET Full Stack\\MVCCRUD\\MVCCRUD\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVCCRUD\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\.NET Full Stack\\MVCCRUD\\MVCCRUD\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MVCCRUD\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-08-15T15:17:07.607Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
